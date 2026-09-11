@@ -2,7 +2,7 @@
 
 A professional equity-research style DCF model for **Samvardhana Motherson International Ltd.**
 
-## Repository structure
+# Repository structure
 
 ```text
 Motherson_DCF_GitHub_Repo/
@@ -26,7 +26,7 @@ Motherson_DCF_GitHub_Repo/
 └── README.md
 ```
 
-## Headline outputs
+# Headline outputs
 
 | Metric | Value |
 |---|---:|
@@ -38,7 +38,7 @@ Motherson_DCF_GitHub_Repo/
 | Base WACC | ~12.95% |
 | Terminal growth | 4.0% |
 
-## Contents
+# Contents
 - Historical financials FY21–FY26
 - FY27E–FY31E operating forecast
 - FCFF build
@@ -49,10 +49,12 @@ Motherson_DCF_GitHub_Repo/
 - Sources and integrity checks
 - Standalone charts and investment reports
 
-## Reproducibility
+# Reproducibility
 Open `model/Motherson_DCF_Model.xlsx` in Excel. The workbook contains linked assumptions, forecasts, FCFF, WACC, DCF, sensitivity, comparable-company and scenario-analysis tabs.
 
 Market data, beta, ERP and other time-sensitive inputs should be refreshed before publication or investment use.
 
 ## Disclaimer
 This repository is for educational and analytical purposes and is not investment advice.
+- Shivansh Bali
+- 
