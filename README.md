@@ -59,5 +59,7 @@ Market data, beta, ERP and other time-sensitive inputs should be refreshed befor
 
 ## Disclaimer
 This repository is for educational and analytical purposes and is not investment advice.
+
+Thank You 
 - Shivansh Bali
-- 
+  
