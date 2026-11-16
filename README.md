@@ -1,6 +1,6 @@
 # Motherson DCF Valuation
 
-A professional equity-research style DCF model for **Samvardhana Motherson International Ltd.**
+- DCF valuation model prepared using equity research methods for **Samvardhana Motherson International Ltd.**
 # DCF Model Preview
 
 ![Motherson DCF Model Preview](images/dcf_model_preview.png)
